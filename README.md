@@ -2,7 +2,7 @@
 ===============
 In diesem Ordner finden sich alle Daten rund um die #hopeSpeech-Workshop vom Projekt netzteufel.eaberlin.de
 
-In jedem Ordner findet sich eine eigene 0LiesMich.txt Datei in der Hinweise zur Verwendung der jeweiligen Dateien stehen.
+In jedem Ordner findet sich eine eigene README.md Datei, in der Hinweise zur Verwendung der jeweiligen Dateien stehen.
 
 Folgende Unterordner gibt es:
 
