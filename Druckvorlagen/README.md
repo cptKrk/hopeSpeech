@@ -1,14 +1,14 @@
 Druckanleitung
 ===============
-Die vier .pdf Datein farbig auf a3 Papier ausdrucken:
+Die drei .pdf Datein farbig auf a3 Papier ausdrucken:
+Die Detein für den Fork zu Özil/Rassismus sind:
 
-+ DissKurs-Beitrag.pdf
-+ DissKurs-Kommentare.pdf
++ DissKurs-Oezil-Beitrag-Bild.pdf
++ DissKurs-Oezil-Kommentare-Bild.pdf
 
-+ DissKurs-PostBubblesMemes.pdf
-+ DissKurs-C_and_CC-Memes.pdf
++ DissKurs--Oezil-PostsBubblesMemes.pdf
 
-Die letzten beiden Dateinen mit den Memes auseinaderschneide und in den #hopeSpeech-Koffer einsortieren
+Die letzte Dateine mit den Memes auseinaderschneide und in den #hopeSpeech-Koffer einsortieren
 
 Anpassung:
 ---------------
