@@ -1,5 +1,9 @@
-#hopeSpeech-Workshop
+#hopeSpeech-Workshop - Özil Fork
 ===============
+
+Diest ist eine Adaption des #hopeSpeech-Workshop von @NetzTeufel zu Thema Özil/Rassismus
+-------
+
 In diesem Ordner finden sich alle Daten rund um die #hopeSpeech-Workshop vom Projekt netzteufel.eaberlin.de
 
 In jedem Ordner findet sich eine eigene README.md Datei, in der Hinweise zur Verwendung der jeweiligen Dateien stehen.
